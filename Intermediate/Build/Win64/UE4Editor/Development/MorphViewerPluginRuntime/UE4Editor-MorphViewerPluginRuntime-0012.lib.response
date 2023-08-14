@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MorphViewerPluginRuntime-0012.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\work\MorphViewer\Intermediate\Build\Win64\MorphViewerEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\work\MorphViewer\Plugins\MorphViewerPlugin\Intermediate\Build\Win64\UE4Editor\Development\MorphViewerPluginRuntime\MorphViewerPluginRuntime.cpp.obj"
+"C:\work\MorphViewer\Plugins\MorphViewerPlugin\Intermediate\Build\Win64\UE4Editor\Development\MorphViewerPluginRuntime\Default.rc2.res"
+/OUT:"C:\work\MorphViewer\Plugins\MorphViewerPlugin\Intermediate\Build\Win64\UE4Editor\Development\MorphViewerPluginRuntime\UE4Editor-MorphViewerPluginRuntime-0012.lib"

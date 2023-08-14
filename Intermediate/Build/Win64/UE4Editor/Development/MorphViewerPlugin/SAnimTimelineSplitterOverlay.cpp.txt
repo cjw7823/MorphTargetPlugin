@@ -1,0 +1,2 @@
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Intermediate\Build\Win64\UE4Editor\Development\MorphViewerPlugin\Definitions.MorphViewerPlugin.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\CustomPersona\Private\AnimTimeline\SAnimTimelineSplitterOverlay.h

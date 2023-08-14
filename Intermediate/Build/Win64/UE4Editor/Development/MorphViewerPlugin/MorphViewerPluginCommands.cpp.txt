@@ -1,0 +1,105 @@
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Intermediate\Build\Win64\UE4Editor\Development\MorphViewerPlugin\Definitions.MorphViewerPlugin.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\MorphViewerPluginCommands.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\MorphViewerPluginStyle.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\MorphViewerPlugin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona/Private/SAnimationEditorViewport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Public\PersonaDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimationEditor\Public\IAnimationEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowCentricApplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Public\IHasPersonaToolkit.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Public\IPersonaViewport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Kismet\Public\BlueprintEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowTabFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowTabManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Kismet\Public\BlueprintEditorModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Public\IPersonaPreviewScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AdvancedPreviewScene\Public\AdvancedPreviewScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprint.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Private\AnimationEditorViewportClient.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Animation/DebugSkelMeshComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\DebugSkelMeshComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Preferences/PersonaOptions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PersonaOptions.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Private\AnimationEditorPreviewScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/WindDirectionalSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Info.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WindDirectionalSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\SEditorViewport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Public\PersonaModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxImportUI.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/ImportSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxImportUI.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\GraphEditor\Public\SNameComboBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MorphTarget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBox.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\SMySpinBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSpinBox.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\SMyCanvas.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SCanvas.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\SDockingAreaCanvas.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\MorphEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IPropertyRowGenerator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailTreeNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona/Private/SAnimSequenceCurveEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Public\IAnimSequenceCurveEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\RichCurveEditorModel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\CurveModel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\CurveEditorTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\IBufferedCurveModel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\CurveDataAbstraction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CurveEditor\CurveDataAbstraction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor/Public/Views/SInteractiveCurveEditorView.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\SCurveEditorView.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\CurveEditorScreenSpace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\ICurveEditorDragOperation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/DelayedDrag.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\CurveEditorSnapMetrics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Core/Public/Algo/MinElement.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\ICurveEditorToolExtension.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\CurveEditor\Public\CurveDrawInfo.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\MyAnimationEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd/Private/Toolkits/SStandaloneAssetEditorToolkitHost.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona/Private/SSequenceEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Private\SAnimCurvePanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Private\SAnimTrackPanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\GraphEditor\Public\SNodePanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\GraphEditor\Public\MarqueeOperation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\SCurveEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\SColorGradientEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Private\SAnimationScrubPanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\KismetWidgets\Public\SScrubWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor/EditorWidgets/Public/ITransportControl.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Private\SAnimEditorBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Private\EditorObjectsTracker.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\SMyButton.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\AssetTools\Public\AssetToolsModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\AssetTools\Public\IAssetTools.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\AssetTools\Public\AssetTypeCategories.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\AssetTools\Public\IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h

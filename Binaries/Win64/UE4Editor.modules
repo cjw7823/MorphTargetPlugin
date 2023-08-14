@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"MorphViewerPlugin": "UE4Editor-MorphViewerPlugin-0002.dll",
+		"MorphViewerPluginRuntime": "UE4Editor-MorphViewerPluginRuntime-0002.dll"
+	}
+}

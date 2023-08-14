@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MorphViewerPlugin.cpp.obj": [
+			"DetailCustomization.cpp.obj",
+			"Morph_Viewport.cpp.obj",
+			"MorphEditor.cpp.obj",
+			"MorphViewerPlugin.cpp.obj",
+			"MorphViewerPluginStyle.cpp.obj",
+			"MorphViewportClient.cpp.obj",
+			"MyAnimationEditor.cpp.obj",
+			"MyAnimationEditorMode.cpp.obj",
+			"MyAnimSequenceCurveEditor.cpp.obj",
+			"MyAnimTimelineTransportControls.cpp.obj",
+			"SDockingAreaCanvas.cpp.obj",
+			"SMyButton.cpp.obj",
+			"SMyCanvas.cpp.obj",
+			"SMySpinBox.cpp.obj",
+			"MorphViewerPluginCommands.cpp.obj"
+		]
+	}
+}

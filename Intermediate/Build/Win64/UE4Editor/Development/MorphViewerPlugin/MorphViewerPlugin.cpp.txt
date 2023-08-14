@@ -1,0 +1,14 @@
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Intermediate\Build\Win64\UE4Editor\Development\MorphViewerPlugin\Definitions.MorphViewerPlugin.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\MorphViewerPlugin.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\DetailCustomization.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\MorphViewerPluginCommands.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\MorphViewerPluginStyle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimationEditor\Public\IAnimationEditorModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimationEditor\Public\IAnimationEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowCentricApplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\Persona\Public\IHasPersonaToolkit.h
+C:\work\MorphViewer\Plugins\MorphViewerPlugin\Source\MorphViewerPlugin\Public\MyAnimationEditor.h
